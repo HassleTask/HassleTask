@@ -18,7 +18,7 @@ Permission is hereby granted, free of charge, to any individual or organization 
    Licensee may NOT use the Software if any of the following apply:
 
    - Licensee's organization exceeds US $1 million in annual revenue
-   - Licensee's deployment processes more than 10,000 tasks per month
+   - Licensee's deployment processes more than 1,000 tasks per month
    - Licensee offers the Software as part of a hosted, managed, or SaaS service to third parties
    - Licensee removes, obscures, or alters any licensing notices
 
