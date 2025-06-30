@@ -60,14 +60,6 @@ See [LOCAL_DEV_MODE.md](./LOCAL_DEV_MODE.md) for detailed setup instructions.
 
 ---
 
-## License
-
-This project is licensed under the **HassleTask Community License v1.0.0** — see the [LICENSE](./LICENSE) file for details.
-
-**Summary:** Free to use for personal projects, education, and internal use by organizations with less than $1M annual revenue or less than 10,000 tasks/month. Commercial use and SaaS hosting require a commercial license.
-
----
-
 ## Contribution
 
 Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to report issues, request features, and submit pull requests.
@@ -82,6 +74,26 @@ Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for g
 - Launch open-source version for community use  
 - Explore multi-language support  
 - Plan managed SaaS offering (HassleTask Cloud)  
+
+---
+
+## License
+
+This project is licensed under the **HassleTask Community License v1.0.0** — see the [LICENSE](./LICENSE) file for details.
+
+**Summary:** Free to use for personal projects, education, and internal use by organizations with less than $1M annual revenue or less than 10,000 tasks/month. Commercial use and SaaS hosting require a commercial license.
+
+---
+
+## Why This License?
+
+HassleTask uses a custom source-available license designed to balance open collaboration with sustainable development.
+
+- It allows free use for personal, educational, and small-scale projects.  
+- Commercial or large-scale use requires a commercial license to support ongoing maintenance and development.  
+- This approach helps us build a healthy community while protecting the project from misuse.
+
+We appreciate your understanding and support.
 
 ---
 
